@@ -3,10 +3,10 @@
 created: 04/26/2021
 updated: 04/26/2021
 
-The content distributed by (fancy fueko)[https://www.youtube.com/channel/UCvVAxOBEAMgu7WwTcFptt-w] via events and collaborators is dedicated to providing technical resources to those hoping to achieve their technical career goals, espeically black women. My collaborators and I recognize that the journey to your dream tech career is one paved with windy roads, struggle and success, and our goal is to provide resources such that we can all succeed together. Furthermore, we also abide by the terms of the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+The content distributed by Ifueko Igbinedion, via events and collaborators is dedicated to providing technical resources to those hoping to achieve their engineering career goals, espeically students of color. I recognize that the journey to your dream engieering career is one paved with windy roads, struggle and success, and our goal is to provide resources such that we can all succeed together. Furthermore, we also abide by the terms of the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
 # Pledge
-THe mission of this work is to provide the actionable skills that everyone interested in tech, and especially black women in tech, need to succeed in their chosen career path. Through this work, first and foremost, we are dedicated to maintaining a positive, harrassment-free experience for everyone consuming our content, regardless of personal identity. We understand the diversity in every aspect of internal and external being of those consuming our content, and we pledge to act in ways that facilitate an welcoming, diverse and equitable envirnment for the inclusion of all.
+The mission of this work is to provide the actionable skills that everyone interested in engineering, and especially students of color, need to succeed in their chosen career path. Through this work, first and foremost, we are dedicated to maintaining a positive, harrassment-free experience for everyone consuming our content, regardless of personal identity. We understand the diversity in every aspect of internal and external being of those consuming our content, and we pledge to act in ways that facilitate an welcoming, diverse and equitable envirnment for the inclusion of all.
 
 # Standards
 
